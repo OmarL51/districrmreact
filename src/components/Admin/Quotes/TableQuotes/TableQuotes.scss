@@ -1,0 +1,24 @@
+.table-quote-admin {
+    td {
+        &.status {
+            .icon {
+                &.close{
+                    color: #f00;
+                }
+                &.check{
+                    color: #008000;
+                }
+            }
+        }
+    }
+
+    
+        &__cell{
+            font-weight: bold;
+        }
+        &__cell2{
+            font-weight: bold;
+        }
+     
+    
+}

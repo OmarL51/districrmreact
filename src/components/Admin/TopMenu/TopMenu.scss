@@ -1,0 +1,21 @@
+.top-menu-admin {
+    background-color: rgba(0, 145, 186, 0.09) !important;
+   
+border-width: 1px 1px 1px 0px !important;
+border-style: solid !important;
+border-color: rgba(0, 0, 0, 0.1) !important;
+    &__logo {
+        width: 250px;
+        &__loguito {
+            width: 130px !important;
+          
+            
+        }
+    }
+
+    i.icon {
+        margin: 0 !important;
+        color: #254478 !important;
+    }
+    
+}

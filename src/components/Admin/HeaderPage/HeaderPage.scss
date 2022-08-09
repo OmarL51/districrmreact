@@ -1,0 +1,23 @@
+.header-page-admin {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    &__b{
+        background: #A4BE49 !important;
+        font-weight: bold;
+        color: white !important;
+        width: 204px !important;
+        height: 38px !important;
+        border: #A4BE49 !important;
+        border-radius: 5px !important;
+      
+       
+    }
+  
+    
+    h2{
+        margin: 0;
+    }
+
+}

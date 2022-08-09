@@ -1,0 +1,44 @@
+.side-menu-admin {
+  
+
+    box-sizing: border-box !important;
+   .side{
+    background-color: rgba(0, 145, 186, 0.09) !important;
+    border: 1px solid rgba(0, 0, 0, 0.1) !important;
+   }
+    .ui.menu {
+        
+        width: 250px !important;
+        overflow: hidden;
+        padding-top: 4em;
+        z-index: 99 !important;
+        
+
+        i.icon {
+            color: #254478 !important;
+            float: initial !important;
+            margin: 0 !important;
+            margin-right: 10px !important;
+            font-weight: bold !important;
+            
+
+        }
+    }
+     
+    .content {
+        color: #254478 !important;
+        position: absolute;
+        right: 0;
+        padding: 30px;
+        width: calc(100% - 250px);
+   
+
+    }
+
+    .side{
+      
+        &_h{
+            
+        }
+    }
+}

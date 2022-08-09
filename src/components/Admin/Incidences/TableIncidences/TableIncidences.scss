@@ -1,0 +1,60 @@
+.table-incidence-admin {
+  
+   &__h{
+    background: #254478 !important;
+
+ 
+   }
+
+   &__b{
+    background: hsl(0, 0%, 100%) !important;
+    font-weight: bold;
+   }
+    &__cell{
+        font-weight: bold;
+    }
+    &__cell2{
+        font-weight: bold;
+    }
+ 
+}
+
+.contai{
+    border: 1px solid #254478;
+    position: absolute;
+width: 577px !important;
+height: 73px !important;
+background: rgba(37, 68, 120, 0.15);
+border-radius: 5px;
+
+&__i{
+    margin-top: 15px !important;
+    margin-left: 5px;
+    width: 565px;
+    border-radius: 5px;
+    border: 1px solid #254478 ;
+}
+
+&_l{
+    &_i{
+        margin-top: 10px !important;
+        margin-left: 5px !important;
+    }
+    margin-left: 5px !important;
+}
+
+&_l2{
+    &_i2{
+        margin-top: 10px !important;
+        margin-left: 5px !important;
+    }
+    margin-left: 5px !important;
+}
+
+&_im{
+   
+    margin-top: -3.35% !important;
+    margin-bottom: 300px !important;
+    margin-left: 550px !important;
+}
+}
